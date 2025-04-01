@@ -1,0 +1,65 @@
+<application>
+  <component name="ActionHistoryManager">
+    <ids>
+      <option value="ChangeIdeScale" />
+      <option value="ActivateEndpointsToolWindow" />
+      <option value="CWMOpenSettingsAction" />
+      <option value="NavBarLocationTop" />
+      <option value="SwitchIdeScaleAction" />
+    </ids>
+  </component>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="ruby" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="15.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "Endpoints.split": "0.65",
+    "GeneralSettings.initiallyConfigured": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "1",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "RM-243.26053.19",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "RM-243.25659.41",
+    "MarketplacePluginsSearchHistory": "/tag:Keymap",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "RunOnceActivity.llm.show.ai.promotion.window.on.start": "true",
+    "ai.promo.window.was.actually.shown": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "evlsprt3.243": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "243.26053.19",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "got.it.tooltip.new.terminal.promotion.243": "1",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1742921650072",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/noa/environnement/store",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "RM-243.26053.19",
+    "tab_selection_count": "1",
+    "ts.lib.d.ts.version": "5.6.3"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/noa/environnement/store"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$JavaScriptFileTypeDetector",
+      "com.jetbrains.nodejs.util.NodeFileTypeDetector$TypeScriptFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>

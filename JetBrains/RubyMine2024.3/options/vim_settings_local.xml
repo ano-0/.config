@@ -1,0 +1,144 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">eA==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="store-396f5e4c">
+      <jump line="0" column="0" filename="$USER_HOME$/environnement/store/README.md" protocol="file" />
+      <jump line="1" column="14" filename="$USER_HOME$/environnement/store/bin/dev" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/environnement/store/app/models/product.rb" protocol="file" />
+      <jump line="15" column="15" filename="$USER_HOME$/environnement/store/db/schema.rb" protocol="file" />
+      <jump line="14" column="13" filename="$USER_HOME$/environnement/store/db/schema.rb" protocol="file" />
+      <jump line="6" column="0" filename="$USER_HOME$/environnement/store/config/routes.rb" protocol="file" />
+      <jump line="0" column="3" filename="$USER_HOME$/environnement/store/tmp/pids/server.pid" protocol="file" />
+      <jump line="17" column="43" filename="$USER_HOME$/environnement/store/config/routes.rb" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/environnement/store/bin/dev" protocol="file" />
+      <jump line="0" column="18" filename="$USER_HOME$/environnement/store/bin/dev" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/environnement/store/app/views/products/index.html.erb" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/environnement/store/app/views/products/index.html.erb" protocol="file" />
+      <jump line="1" column="0" filename="$USER_HOME$/environnement/store/app/controllers/products_controller.rb" protocol="file" />
+      <jump line="15" column="0" filename="$USER_HOME$/environnement/store/config/routes.rb" protocol="file" />
+      <jump line="1" column="2" filename="$USER_HOME$/environnement/store/app/models/product.rb" protocol="file" />
+      <jump line="3" column="22" filename="$USER_HOME$/environnement/store/config/routes.rb" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/environnement/store/app/views/products/index.html.erb" timestamp="1742932354958">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/3.4.1/lib/ruby/gems/3.4.0/gems/brakeman-7.0.0/lib/brakeman/processors/model_processor.rb" timestamp="1742924709503">
+        <mark key="&quot;" line="5" column="30" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/db/schema.rb" timestamp="1742932397785">
+        <mark key="&quot;" line="14" column="13" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/bin/dev" timestamp="1742929543983">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/app/models/product.rb" timestamp="1742931416104">
+        <mark key="&quot;" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/config/routes.rb" timestamp="1742999415758">
+        <mark key="&quot;" line="4" column="11" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="30" />
+        <mark key="^" line="10" column="31" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/config/application.rb" timestamp="1742929630481">
+        <mark key="&quot;" line="8" column="12" />
+      </file>
+      <file name="b9c34ea0-489c-4b1c-a5fd-e44462c74497/routine/round@(any,any).sql" timestamp="1742926451460">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/tmp/pids/server.pid" timestamp="1742929545394">
+        <mark key="&quot;" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/app/controllers/products_controller.rb" timestamp="1742932377082">
+        <mark key="&quot;" line="1" column="0" />
+      </file>
+      <file name="b9c34ea0-489c-4b1c-a5fd-e44462c74497/routine/concat@().sql" timestamp="1742927210127">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/config.ru" timestamp="1742927211215">
+        <mark key="&quot;" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/bin/setup" timestamp="1742929545609">
+        <mark key="&quot;" line="5" column="11" />
+      </file>
+      <file name="b9c34ea0-489c-4b1c-a5fd-e44462c74497/routine/zeroblob@(any).sql" timestamp="1742927273274">
+        <mark key="&quot;" line="2" column="0" />
+      </file>
+      <file name="b9c34ea0-489c-4b1c-a5fd-e44462c74497/routine/json_error_position@(any).sql" timestamp="1742931525890">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/bin/bundle" timestamp="1742929535469">
+        <mark key="&quot;" line="39" column="13" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/README.md" timestamp="1742932164667">
+        <mark key="&quot;" line="0" column="8" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcnVieQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICBnZXQgIi9wcm9kdWN0cyIsIHRvOiAicHJvZHVjdHMjaW5kZXgiCg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICBwb3N0ICIvcHJvZHVjdHMiLCB0bzogInByb2R1Y3RzI2NyZWF0ZSIK</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICBwb3N0ICIvcHJvZHVjdHMiLCB0bzogInByb2R1Y3RzI2NyZWF0ZSIK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICBnZXQgIi9wcm9kdWN0cyIsIHRvOiAicHJvZHVjdHMjaW5kZXgiCg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICBlbmQK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICBSYWlscy5hcHBsaWNhdGlvbi5yb3V0ZXMuZHJhdyBkbwo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

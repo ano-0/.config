@@ -1,0 +1,160 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="store-396f5e4c">
+      <jump line="0" column="0" filename="$USER_HOME$/environnement/store/README.md" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/environnement/store/bin/dev" protocol="file" />
+      <jump line="1" column="14" filename="$USER_HOME$/environnement/store/bin/dev" protocol="file" />
+    </project>
+    <project id="PyCharmLearningProject-402d639">
+      <jump line="2" column="0" filename="$USER_HOME$/.cache/JetBrains/PyCharm2024.3/demo/PyCharmLearningProject/welcome.py" protocol="file" />
+      <jump line="0" column="9" filename="$USER_HOME$/.cache/JetBrains/PyCharm2024.3/demo/PyCharmLearningProject/welcome.py" protocol="file" />
+    </project>
+    <project id="Implementation-5f947a08">
+      <jump line="46" column="27" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="6" column="18" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="12" column="4" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="8" column="21" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="4" column="0" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="7" column="7" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="42" column="63" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="43" column="15" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="45" column="33" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="32" column="3" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="27" column="35" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="26" column="44" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="30" column="7" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" protocol="file" />
+    </project>
+    <project id="TP1-cc342bf6">
+      <jump line="1" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="125" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="136" column="36" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="98" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="106" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="113" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="120" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="126" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="95" column="0" filename="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" protocol="file" />
+      <jump line="4" column="27" filename="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/.cache/JetBrains/PyCharm2024.3/demo/PyCharmLearningProject/welcome.py" timestamp="1741678429076">
+        <mark key="&quot;" line="5" column="7" />
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/environnement/store/bin/dev" timestamp="1741381006045">
+        <mark key="]" line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/a.py" timestamp="1741678428822">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/requirements.txt" timestamp="1741679531320">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bureau/TP MAC/TP1/tp1.ipynb" timestamp="1742999106670">
+        <mark key="&quot;" line="104" column="13" />
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="97" column="0" />
+        <mark key="." line="97" column="0" />
+      </file>
+      <file name="/Python Console.py" timestamp="1742992491500">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation/first_attempt.py" timestamp="1742992168295">
+        <mark key="&quot;" line="30" column="7" />
+        <mark key="'" line="28" column="21" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions" timestamp="1742999236863">
+        <mark key="&quot;" line="4" column="28" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="28" />
+        <mark key="^" line="4" column="28" />
+        <mark key="." line="4" column="27" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ZnJvbSBmb250VG9vbHMubWVyZ2UudXRpbCBpbXBvcnQgc3VtRGljdHMK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">MA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">LURhd3QudG9vbGtpdC5uYW1lPVdMVG9vbGtpdA==</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBwcmludChmInZyYWllIGludMOpZ3JhbGUgOiB7dnJhaWVfaW50ZWd9IikK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ZnJvbSBmb250VG9vbHMubWVyZ2UudXRpbCBpbXBvcnQgc3VtRGljdHMK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBwcmludChmInMgOiB7c30gKGF2ZWMgbiA9IHtufSkiKQogICAgICAgIHByaW50KGYidnJhaWUgaW50w6lncmFsZSA6IHt2cmFpZV9pbnRlZ30iKQogICAgICAgIHByaW50KGYiZXJyZXVyIHJlbCA6IHtyZXNbaV19IikKICAgICAgICBwcmludCgiXG4iKQo=</text>
+      </register>
+      <register name="3" type="CHARACTER_WISE">
+        <text encoding="base64">c3VtID0gMAogICAgc3ViZCA9IG5wLmxpbnNwYWNlKGEsIGIsIG51bT1OKzEpCiAgICBmb3IgaSBpbiByYW5nZShOKToKICAgICAgICBzdW0rPWYoKHN1YmRbaV0rc3ViZFtpKzFdKS8yKSooc3ViZFtpKzFdLXN1YmRbaV0pCiAgICByZXR1cm4gc3U=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">TiA9IG5wLmFycmF5KFtpbnQoMTAqKihpLzEwKSkgZm9yIGkgaW4gcmFuZ2UoMSwgMzApXSkK</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgIE4gPSBucC5hcnJheShbaW50KChiLWEpL2gpIGZvciBoIGluIEhdKQo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgIHByaW50KGEpCiAgICBwcmludChiKQogICAgcHJpbnQoSCkK</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBOID0gaW50KChhLWIpL2gpCg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

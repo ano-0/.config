@@ -1,0 +1,166 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="About">
+      <i c="3" l="1742931812618" />
+    </e>
+    <e n="ActivateEndpointsToolWindow">
+      <i c="2" d="2" l="1742929482704" k="1742929482704" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="29" l="1742929425920" />
+    </e>
+    <e n="CWMOpenSettingsAction">
+      <i c="1" d="1" l="1742929546564" k="1742929546564" />
+    </e>
+    <e n="ChangeIdeScale">
+      <i c="2" d="2" l="1742932168663" k="1742932168663" />
+    </e>
+    <e n="Console.TableResult.ChangePageSize">
+      <i c="1" l="1742921826739" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="96" l="1742932630659" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="1" l="1742929453655" />
+    </e>
+    <e n="EditorDown">
+      <i c="1" l="1742929452773" />
+    </e>
+    <e n="EditorEnter">
+      <i c="7" l="1742932627302" />
+    </e>
+    <e n="EditorEscape">
+      <i c="46" l="1742999415706" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1742932629105" />
+    </e>
+    <e n="ExpandRegion">
+      <i c="3" l="1742927221424" />
+    </e>
+    <e n="GotoAction">
+      <i c="3" l="1742931786213" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1742924698623" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="3" l="1741380113505" />
+    </e>
+    <e n="NavBarLocationTop">
+      <i c="1" d="1" l="1742931803713" k="1742931803713" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="2" l="1741380667276" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1741380327169" />
+    </e>
+    <e n="Rails.RunGenerator">
+      <i c="1" l="1741380179496" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1742927316324" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1742927319352" />
+    </e>
+    <e n="RunAnything">
+      <i c="3" l="1742929204758" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1742932634102" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="12" l="1742932162154" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="4" l="1742927253822" />
+    </e>
+    <e n="ShowSettings">
+      <i c="4" l="1742929899188" />
+    </e>
+    <e n="SwitchIdeScaleAction">
+      <i c="1" d="1" l="1742932168663" k="1742932168663" />
+    </e>
+    <e n="Switcher">
+      <i c="2" l="1742932399943" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1742927341330" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="2" l="1741378422676" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1741378303197" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createRunConfigurationWithInlines$2">
+      <i c="2" l="1742927317978" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeIdeScaleAction$ChangeScaleAction">
+      <i c="2" l="1742932171750" />
+    </e>
+    <e n="com.intellij.ide.structureView.newStructureView.TreeActionWrapper">
+      <i c="1" l="1742924727094" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1742921647512" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="11" l="1742932630653" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1742924723432" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.EmptyAction">
+      <i c="2" l="1742932400928" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1742929508160" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1742932377062" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$FindByShortcutAction">
+      <i c="1" l="1742929905237" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="18" l="1742932168630" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="6" l="1742999422038" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.HideAction">
+      <i c="1" l="1741380152076" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="11" l="1742929243624" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="7" l="1742931808815" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1741378299020" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="4" l="1742929501755" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="19" l="1742931803295" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="2" l="1742927342745" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1741380983968" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1741380700114" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="5" l="1742932634088" />
+    </e>
+  </component>
+</application>

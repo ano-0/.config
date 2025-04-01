@@ -1,0 +1,324 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="TP1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="fescm8pfzk81" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">{
+  &quot;data&quot;: {
+    &quot;PLAIN_TEXT&quot;: {
+      &quot;usageCount&quot;: 2,
+      &quot;lastUsed&quot;: 1742999208892
+    },
+    &quot;Jupyter&quot;: {
+      &quot;usageCount&quot;: 2,
+      &quot;lastUsed&quot;: 1742992188948
+    }
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/noa/Bureau/TP MAC/TP1/tp1.ipynb&quot;,
+    &quot;/home/noa/.config/JetBrains/PyCharm2024.3/pycharm64.vmoptions&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="07f21e92-197b-407b-a6b1-59e83b262563" />
+  <component name="LanguageUsageStatistics">
+    <language id="Jupyter">
+      <summary usageCount="2" lastUsage="1742992188948" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1742999208892" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/noa/Bureau/TP MAC/TP1}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TP1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/noa/Bureau/TP MAC/TP1}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/noa/Bureau/TP MAC/TP1/img}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="TP1" />
+            <item name="TP1" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="TP1" />
+              <item name="dir{file:///home/noa/Bureau/TP MAC/TP1}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ipynb_checkpoints" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".ipynb_checkpoints" />
+                <item name="dir{file:///home/noa/Bureau/TP MAC/TP1/.ipynb_checkpoints}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.venv" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".venv" />
+                <item name="dir{file:///home/noa/Bureau/TP MAC/TP1/.venv}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/img" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="img" />
+                <item name="dir{file:///home/noa/Bureau/TP MAC/TP1/img}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/cv_intnum.png" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="cv_intnum.png" />
+                  <item name="cv_intnum.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/rectag10.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="rectag10.pdf" />
+                  <item name="rectag10.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/rectag10.png" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="rectag10.png" />
+                  <item name="rectag10.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/rectpm10.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="rectpm10.pdf" />
+                  <item name="rectpm10.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/rectpm10.png" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="rectpm10.png" />
+                  <item name="rectpm10.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/trap10.pdf" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="trap10.pdf" />
+                  <item name="trap10.pdf" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/img/trap10.png" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/image.svg" iconPlugin="com.intellij" isLeaf="true" text="trap10.png" />
+                  <item name="trap10.png" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tp1.ipynb" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="tp1.ipynb" />
+                <item name="tp1.ipynb" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tp1.pdf" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="tp1.pdf" />
+                <item name="tp1.pdf" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Untitled.ipynb" />
+                  </map>
+                </attributes>
+                <data iconModule="intellij.notebooks.jupyter.core" iconPath="icons/org.jetbrains.plugins.notebooks.jupyter/expui/jupyterNotebook.svg" iconPlugin="com.intellij.notebooks.core" isLeaf="true" text="Untitled.ipynb" />
+                <item name="Untitled.ipynb" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/nodes/library.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7201000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16593751" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.3301006" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3301006" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.3301006" />
+      <window_info anchor="bottom" id="Jupyter" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Plots" order="5" weight="0.1" />
+      <unified_weights bottom="0.3301006" left="0.16593751" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Python Console</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="40" key="SettingsEditor.ideScale=200" timestamp="1742993256115">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="0" y="40" key="SettingsEditor.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742993256115" />
+    <state x="0" y="0" width="790" height="181" key="search.everywhere.popup" timestamp="1742999380338">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="689" y="0" width="1222" height="2009" key="search.everywhere.popup.ideScale=175" timestamp="1742992204112">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="689" y="0" width="1222" height="2009" key="search.everywhere.popup.ideScale=175/0.0.2560.1440@0.0.2560.1440" timestamp="1742992204112" />
+    <state x="0" y="0" width="1340" height="262" key="search.everywhere.popup.ideScale=200" timestamp="1742999236821">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="0" width="1340" height="262" key="search.everywhere.popup.ideScale=200/0.0.1600.900@0.0.1600.900" timestamp="1742999236821" />
+    <state x="606" y="0" width="1363" height="2592" key="search.everywhere.popup.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742999172939" />
+    <state x="0" y="0" width="750" height="181" key="search.everywhere.popup.ideScale=90" timestamp="1742999355894">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="0" width="750" height="181" key="search.everywhere.popup.ideScale=90/0.0.1600.900@0.0.1600.900" timestamp="1742999355894" />
+    <state x="0" y="0" width="790" height="181" key="search.everywhere.popup/0.0.1600.900@0.0.1600.900" timestamp="1742999380338" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tp1.ipynb">
+      <provider selected="true" editor-type-id="jupyter-editor">
+        <state relative-caret-position="1412">
+          <caret line="104" column="13" selection-start-line="104" selection-start-column="13" selection-end-line="104" selection-end-column="13" />
+          <folding>
+            <element signature="e#5603#5621#0#JupyterPython" expanded="true" />
+          </folding>
+          <jupyter>
+            <cells>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+              <cell>
+                <outputs scrollingEnabled="true" />
+              </cell>
+            </cells>
+          </jupyter>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/pycharm64.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

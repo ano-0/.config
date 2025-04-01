@@ -1,0 +1,681 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="store" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="store: development: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="store: development: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="store: development: DSN" type="27e358d6:DataSourceNode" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="Family of 5 table (host: schema main)" type="5ae9e67d:BaseModel$BaseNamingFamily" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2tov3vxspd0j1" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"README.md","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,96,10,24,105,99,111,110,115,47,77,97,114,107,100,111,119,110,80,108,117,103,105,110,46,115,118,103,18,24,105,99,111,110,115,47,101,120,112,117,105,47,109,97,114,107,100,111,119,110,46,115,118,103,26,29,111,114,103,46,105,110,116,101,108,108,105,106,46,112,108,117,103,105,110,115,46,109,97,114,107,100,111,119,110,40,-33,-55,-17,-63,-7,-1,-1,-1,-1,1,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/bin/dev">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret column="18" selection-start-column="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"dev","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,23,105,99,111,110,115,47,114,117,98,121,47,114,117,98,121,70,105,108,101,46,115,118,103,18,25,105,99,111,110,115,47,101,120,112,117,105,47,114,117,98,121,47,114,117,98,121,46,115,118,103,26,26,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,114,117,98,121,40,-23,-67,-26,-89,4,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="das://b9c34ea0-489c-4b1c-a5fd-e44462c74497/schema/main/table/ar_internal_metadata">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1742999408159" presentationMode="TABLE" projectRestartId="9548e444-c3d7-4f36-b72b-d2ec2a2c3134" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"ar_internal_metadata","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,15,105,99,111,110,115,47,116,97,98,108,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,116,97,98,108,101,46,115,118,103,26,21,99,111,109,46,105,110,116,101,108,108,105,106,46,100,97,116,97,98,97,115,101,40,-102,-5,-71,-113,5,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="das://b9c34ea0-489c-4b1c-a5fd-e44462c74497/schema/main/table/products">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1742999408881" presentationMode="TABLE" projectRestartId="9548e444-c3d7-4f36-b72b-d2ec2a2c3134" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"products","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,71,10,15,105,99,111,110,115,47,116,97,98,108,101,46,115,118,103,18,21,105,99,111,110,115,47,101,120,112,117,105,47,116,97,98,108,101,46,115,118,103,26,21,99,111,109,46,105,110,116,101,108,108,105,106,46,100,97,116,97,98,97,115,101,40,-102,-5,-71,-113,5,48,0]}]]></tab>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"product.rb","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,72,10,20,110,111,100,101,115,47,109,111,100,101,108,67,108,97,115,115,46,115,118,103,18,26,101,120,112,117,105,47,110,111,100,101,115,47,109,111,100,101,108,67,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-71,-110,-18,-120,2,48,0]}]]></tab>
+      </file>
+      <file current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="198">
+              <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+        <tab><![CDATA[{"tabTitle":"routes.rb","foregroundColor":-9192071,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"73bd79"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,88,10,23,105,99,111,110,115,47,114,117,98,121,47,114,117,98,121,70,105,108,101,46,115,118,103,18,25,105,99,111,110,115,47,101,120,112,117,105,47,114,117,98,121,47,114,117,98,121,46,115,118,103,26,26,111,114,103,46,106,101,116,98,114,97,105,110,115,46,112,108,117,103,105,110,115,46,114,117,98,121,40,-23,-67,-26,-89,4,48,0]}]]></tab>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Markdown": {
+      "usageCount": 6,
+      "lastUsed": 1742999410295
+    },
+    "Ruby": {
+      "usageCount": 15,
+      "lastUsed": 1742999410084
+    },
+    "Database Element": {
+      "usageCount": 6,
+      "lastUsed": 1742999410090
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 1,
+      "lastUsed": 1742927346130
+    },
+    "ERB": {
+      "usageCount": 2,
+      "lastUsed": 1742932151882
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">{
+  &quot;changedPaths&quot;: [
+    &quot;/home/noa/environnement/store/bin/dev&quot;,
+    &quot;/home/noa/environnement/store/app/views/products/index.html.erb&quot;,
+    &quot;/home/noa/environnement/store/config/routes.rb&quot;
+  ]
+}</component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="ERB">
+      <summary usageCount="2" lastUsage="1742932151884" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="6" lastUsage="1742999410295" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1742927346131" />
+    </language>
+    <language id="ruby">
+      <summary usageCount="15" lastUsage="1742999410084" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/noa/environnement/store}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="store" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/noa/environnement/store}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/noa/environnement/store/storage}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+          <presentation>
+            <attributes />
+            <data iconPath="expui/toolwindows/project.svg" iconPlugin="com.intellij" isLeaf="false" text="store" />
+            <item name="store" type="b2602c69:ProjectViewProjectNode" />
+            <presentation>
+              <attributes>
+                <map>
+                  <entry key="filePath" value="$PROJECT_DIR$" />
+                </map>
+              </attributes>
+              <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="store" />
+              <item name="dir{file:///home/noa/environnement/store}" type="462c0819:PsiDirectoryNode" />
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.github" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".github" />
+                <item name="dir{file:///home/noa/environnement/store/.github}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.kamal" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text=".kamal" />
+                <item name="dir{file:///home/noa/environnement/store/.kamal}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/app" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="app" />
+                <item name="dir{file:///home/noa/environnement/store/app}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/bin" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="bin" />
+                <item name="dir{file:///home/noa/environnement/store/bin}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="config" />
+                <item name="dir{file:///home/noa/environnement/store/config}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/db" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="db" />
+                <item name="dir{file:///home/noa/environnement/store/db}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/lib" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="lib" />
+                <item name="dir{file:///home/noa/environnement/store/lib}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/log" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="log" />
+                <item name="dir{file:///home/noa/environnement/store/log}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/public" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="public" />
+                <item name="dir{file:///home/noa/environnement/store/public}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/script" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="script" />
+                <item name="dir{file:///home/noa/environnement/store/script}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/storage" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="storage" />
+                <item name="dir{file:///home/noa/environnement/store/storage}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/storage/.keep" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".keep" />
+                  <item name=".keep" type="ab9368bb:PsiFileNode" />
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/storage/development.sqlite3" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="development.sqlite3" />
+                  <item name="development.sqlite3" type="ab9368bb:PsiFileNode" />
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/test" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/testRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                <item name="dir{file:///home/noa/environnement/store/test}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/tmp" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="tmp" />
+                <item name="dir{file:///home/noa/environnement/store/tmp}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/vendor" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="vendor" />
+                <item name="dir{file:///home/noa/environnement/store/vendor}" type="462c0819:PsiDirectoryNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.dockerignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".dockerignore" />
+                <item name=".dockerignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitattributes" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitattributes" />
+                <item name=".gitattributes" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.gitignore" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/ignored.svg" iconPlugin="com.intellij" isLeaf="true" text=".gitignore" />
+                <item name=".gitignore" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.rubocop.yml" />
+                  </map>
+                </attributes>
+                <data iconPath="fileTypes/yaml.svg" iconPlugin="com.intellij" isLeaf="true" text=".rubocop.yml" />
+                <item name=".rubocop.yml" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/.ruby-version" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text=".ruby-version" />
+                <item name=".ruby-version" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/config.ru" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/rack/rackFile.svg" iconPlugin="org.jetbrains.plugins.ruby" isLeaf="true" text="config.ru" />
+                <item name="config.ru" type="3bbc0ca4:RubyFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Dockerfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/DockerFile_1.svg" iconPlugin="Docker" isLeaf="true" text="Dockerfile" />
+                <item name="Dockerfile" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Gemfile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/ruby/ruby.svg" iconPlugin="org.jetbrains.plugins.ruby" isLeaf="true" text="Gemfile" />
+                <item name="Gemfile" type="3bbc0ca4:RubyFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Gemfile.lock" />
+                  </map>
+                </attributes>
+                <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="Gemfile.lock" />
+                <item name="Gemfile.lock" type="ab9368bb:PsiFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/Rakefile" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/ruby/ruby.svg" iconPlugin="org.jetbrains.plugins.ruby" isLeaf="true" text="Rakefile" />
+                <item name="Rakefile" type="3bbc0ca4:RubyFileNode" />
+              </presentation>
+              <presentation>
+                <attributes>
+                  <map>
+                    <entry key="filePath" value="$PROJECT_DIR$/README.md" />
+                  </map>
+                </attributes>
+                <data iconPath="icons/expui/markdown.svg" iconPlugin="org.intellij.plugins.markdown" isLeaf="true" text="README.md" />
+                <item name="README.md" type="ab9368bb:PsiFileNode" />
+              </presentation>
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="nodes/ppLib.svg" iconPlugin="com.intellij" isLeaf="false" text="External Libraries" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </presentation>
+            <presentation>
+              <attributes />
+              <data iconPath="scope/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="Scratches and Consoles" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </presentation>
+          </presentation>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Rails.store" />
+    </history>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_MIGRATION_FIELDS,SHOW_VALIDATIONS" />
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8926000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5007886" visible="true" weight="0.23781249" />
+      <window_info id="Commit" order="1" weight="0.2376953" />
+      <window_info active="true" id="Structure" order="2" sideWeight="0.49921137" side_tool="true" visible="true" weight="0.23781249" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.15804598" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.15768678" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.55567527" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" show_stripe_button="false" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="2" weight="0.3298828" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="5" weight="0.3298828" />
+      <unified_weights bottom="0.15804598" left="0.23781249" right="0.3298828" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12363282" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.3298828" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="5" />
+      <unified_weights left="0.12363282" right="0.3298828" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Endpoints</value>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Database</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="778" y="274" width="1019" height="939" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=150" timestamp="1742921670910">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="778" y="274" width="1019" height="939" key="#com.intellij.execution.impl.EditConfigurationsDialog.ideScale=150/0.0.2560.1440@0.0.2560.1440" timestamp="1742921670910" />
+    <state width="2396" height="690" key="GridCell.Tab.0.bottom.ideScale=200" timestamp="1742932033197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="690" key="GridCell.Tab.0.bottom.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742932033197" />
+    <state width="2396" height="690" key="GridCell.Tab.0.center.ideScale=200" timestamp="1742932033197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="690" key="GridCell.Tab.0.center.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742932033197" />
+    <state width="2396" height="690" key="GridCell.Tab.0.left.ideScale=200" timestamp="1742932033197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="690" key="GridCell.Tab.0.left.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742932033197" />
+    <state width="2396" height="690" key="GridCell.Tab.0.right.ideScale=200" timestamp="1742932033197">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="690" key="GridCell.Tab.0.right.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742932033197" />
+    <state width="2396" height="376" key="GridCell.Tab.1.bottom.ideScale=200" timestamp="1742929222223">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="376" key="GridCell.Tab.1.bottom.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929222223" />
+    <state width="2396" height="376" key="GridCell.Tab.1.center.ideScale=200" timestamp="1742929222223">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="376" key="GridCell.Tab.1.center.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929222223" />
+    <state width="2396" height="376" key="GridCell.Tab.1.left.ideScale=200" timestamp="1742929222223">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="376" key="GridCell.Tab.1.left.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929222223" />
+    <state width="2396" height="376" key="GridCell.Tab.1.right.ideScale=200" timestamp="1742929222223">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state width="2396" height="376" key="GridCell.Tab.1.right.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929222223" />
+    <state x="539" y="219" key="SettingsEditor.ideScale=150" timestamp="1741380722581">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="539" y="219" key="SettingsEditor.ideScale=150/0.0.2560.1440@0.0.2560.1440" timestamp="1741380722581" />
+    <state x="539" y="219" key="SettingsEditor.ideScale=175" timestamp="1742927246157">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="539" y="219" key="SettingsEditor.ideScale=175/0.0.2560.1440@0.0.2560.1440" timestamp="1742927246157" />
+    <state x="539" y="40" key="SettingsEditor.ideScale=200" timestamp="1742929931886">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="539" y="40" key="SettingsEditor.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929931886" />
+    <state x="887" y="100" width="1257" height="1340" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150" timestamp="1741380677327">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="887" y="100" width="1257" height="1340" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.ideScale=150/0.0.2560.1440@0.0.2560.1440" timestamp="1741380677327" />
+    <state x="775" y="339" key="run.anything.popup.ideScale=150" timestamp="1741380179641">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="775" y="339" key="run.anything.popup.ideScale=150/0.0.2560.1440@0.0.2560.1440" timestamp="1741380179641" />
+    <state x="608" y="329" width="1344" height="2621" key="run.anything.popup.ideScale=200" timestamp="1742929222163">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="608" y="329" width="1344" height="2621" key="run.anything.popup.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742929222163" />
+    <state x="773" y="0" width="1009" height="1520" key="search.everywhere.popup.ideScale=150" timestamp="1742927212674">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="773" y="0" width="1009" height="1520" key="search.everywhere.popup.ideScale=150/0.0.2560.1440@0.0.2560.1440" timestamp="1742927212674" />
+    <state x="0" y="0" width="1340" height="262" key="search.everywhere.popup.ideScale=200" timestamp="1742932168649">
+      <screen x="0" y="0" width="1600" height="900" />
+    </state>
+    <state x="0" y="0" width="1340" height="262" key="search.everywhere.popup.ideScale=200/0.0.1600.900@0.0.1600.900" timestamp="1742932168649" />
+    <state x="606" y="0" width="1344" height="2592" key="search.everywhere.popup.ideScale=200/0.0.2560.1440@0.0.2560.1440" timestamp="1742931807259" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tmp/pids/server.pid" />
+    <entry file="file://$PROJECT_DIR$/app/views/products/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/products_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/schema.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models/product.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/dev">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b9c34ea0-489c-4b1c-a5fd-e44462c74497/schema/main/table/ar_internal_metadata">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1742999408159" presentationMode="TABLE" projectRestartId="9548e444-c3d7-4f36-b72b-d2ec2a2c3134" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://b9c34ea0-489c-4b1c-a5fd-e44462c74497/schema/main/table/products">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1742999408881" presentationMode="TABLE" projectRestartId="9548e444-c3d7-4f36-b72b-d2ec2a2c3134" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

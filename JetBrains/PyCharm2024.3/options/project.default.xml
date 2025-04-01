@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+      <component name="VcsDirectoryMappings" defaultProject="true" />
+      <component name="WindowStateProjectService">
+        <state x="784" y="379" key="SettingsEditor.ideScale=150" timestamp="1741378377199">
+          <screen x="0" y="0" width="2560" height="1440" />
+        </state>
+        <state x="784" y="379" key="SettingsEditor.ideScale=150/0.0.2560.1440" timestamp="1741378377199" />
+        <state x="784" y="360" key="SettingsEditor.ideScale=175" timestamp="1741677966690">
+          <screen x="0" y="0" width="2560" height="1440" />
+        </state>
+        <state x="784" y="360" key="SettingsEditor.ideScale=175/0.0.2560.1440" timestamp="1741677966690" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

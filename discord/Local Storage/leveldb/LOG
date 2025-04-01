@@ -1,0 +1,5 @@
+2025/01/31-19:58:28.632 34ad Reusing MANIFEST /home/noa/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2025/01/31-19:58:28.638 34ad Recovering log #22
+2025/01/31-19:58:28.651 34ad Level-0 table #24: started
+2025/01/31-19:58:28.680 34ad Level-0 table #24: 3345181 bytes OK
+2025/01/31-19:58:28.683 34ad Delete type=0 #22

@@ -1,0 +1,226 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="5" l="1742999196359" />
+    </e>
+    <e n="About">
+      <i c="1" d="1" l="1742999092721" k="1742999092721" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="10" l="1742999191243" />
+    </e>
+    <e n="CallSaul">
+      <i c="1" l="1742992240888" />
+    </e>
+    <e n="ChangeIdeScale">
+      <i c="5" d="5" l="1742999380368" k="1742999380368" />
+    </e>
+    <e n="ChangeKeymap">
+      <i c="1" l="1742993204053" />
+    </e>
+    <e n="ChangeView">
+      <i c="1" l="1742999060846" />
+    </e>
+    <e n="CloseProject">
+      <i c="1" l="1741678428801" />
+    </e>
+    <e n="Debug">
+      <i c="1" l="1741678115984" />
+    </e>
+    <e n="EditCustomVmOptions">
+      <i c="1" d="1" l="1742999172951" k="1742999172951" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="275" l="1742998352080" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="5" l="1742993051204" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="38" l="1742997890434" />
+    </e>
+    <e n="EditorDelete">
+      <i c="20" l="1742997758705" />
+    </e>
+    <e n="EditorDown">
+      <i c="6" l="1742994612616" />
+    </e>
+    <e n="EditorEnter">
+      <i c="72" l="1742999188310" />
+    </e>
+    <e n="EditorEscape">
+      <i c="127" l="1742999204225" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2" l="1742995444610" />
+    </e>
+    <e n="EditorPaste">
+      <i c="5" l="1742999198438" />
+    </e>
+    <e n="EditorPasteFromX11">
+      <i c="1" l="1742997078350" />
+    </e>
+    <e n="EditorRight">
+      <i c="14" l="1742997107046" />
+    </e>
+    <e n="EditorSearchSession.ToggleMatchCase">
+      <i c="6" d="6" l="1741678418665" k="1741678418665" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="2" l="1741683025804" />
+    </e>
+    <e n="EditorTab">
+      <i c="5" l="1742997861341" />
+    </e>
+    <e n="EditorToggleCase">
+      <i c="1" d="1" l="1741678422248" k="1741678422248" />
+    </e>
+    <e n="EditorUp">
+      <i c="2" l="1742997109365" />
+    </e>
+    <e n="ExpandRecursively">
+      <i c="1" l="1741677952719" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1741682441074" />
+    </e>
+    <e n="JupyterSelectCellAboveCommandModeAction">
+      <i c="5" l="1742997313027" />
+    </e>
+    <e n="JupyterSelectCellBelowCommandModeAction">
+      <i c="5" l="1742997313632" />
+    </e>
+    <e n="JupyterServerChooserAction">
+      <i c="1" l="1742992313359" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1742999065520" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="1" l="1741678332432" />
+    </e>
+    <e n="NotebookRunCellAction">
+      <i c="40" l="1742998422976" />
+    </e>
+    <e n="NotebookSelectCellAboveAction">
+      <i c="3" l="1742992340272" />
+    </e>
+    <e n="OpenFile">
+      <i c="3" l="1742992153668" />
+    </e>
+    <e n="ProblemsView.CopyProblemDescription">
+      <i c="1" l="1741683093251" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="3" l="1742995939507" />
+    </e>
+    <e n="Run">
+      <i c="1" l="1741678083089" />
+    </e>
+    <e n="SaveAll">
+      <i c="5" l="1742999206757" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="9" l="1742999377116" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="3" l="1742999054356" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="15" l="1741683352136" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1742992360650" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1741678136312" />
+    </e>
+    <e n="SwitchIdeScaleAction">
+      <i c="2" d="2" l="1742999364402" k="1742999364402" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1741678106631" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="12" l="1741678471482" />
+    </e>
+    <e n="Tree-selectPrevious">
+      <i c="4" l="1741681056879" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1741678445858" />
+    </e>
+    <e n="WelcomeScreen.Settings">
+      <i c="1" l="1741677957857" />
+    </e>
+    <e n="ZoomOutIdeAction">
+      <i c="1" d="1" l="1742999342466" k="1742999342466" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
+      <i c="1" l="1741683393105" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeIdeScaleAction$ChangeScaleAction">
+      <i c="5" l="1742999391293" />
+    </e>
+    <e n="com.intellij.ide.actions.QuickChangeKeymapAction$1">
+      <i c="1" l="1742993211903" />
+    </e>
+    <e n="com.intellij.ide.startup.importSettings.chooser.productChooser.JbChooserAction">
+      <i c="1" l="1741677936170" />
+    </e>
+    <e n="com.intellij.jupyter.core.jupyter.editor.JupyterServerChooserAction$createPopupActionGroup$actionList$1">
+      <i c="1" l="1742992314454" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="2" l="1741680939025" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="552" l="1742999208830" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="7" l="1742996723311" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1742999214210" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="13" l="1742999380330" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="12" l="1742999398267" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="12" l="1742992491221" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="10" l="1742999107925" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1741677955503" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="7" l="1742996735550" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1741678994426" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="3" l="1742999354091" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="1" l="1741678417776" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="2" l="1742992367197" />
+    </e>
+    <e n="com.jetbrains.python.sdk.AddLocalInterpreterAction">
+      <i c="1" l="1742992252443" />
+    </e>
+    <e n="com.jetbrains.python.sdk.PySdkPopupFactory$SwitchToSdkAction">
+      <i c="1" l="1742992373704" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="5" l="1742999206742" />
+    </e>
+  </component>
+</application>

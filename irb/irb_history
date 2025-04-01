@@ -1,0 +1,45 @@
+print("hello world")
+8+8
+Rails.version
+Product.column_names
+Product.new(name: "Pyjama")
+product.save
+product = Product.new(name: "Pyjama")
+product.save
+product
+Product.create(name: "PC")
+Product.all
+Product.where(name: "Pyjama")
+Product.order(name: :asc)
+Product.find(1)
+product = Product.find(1)
+product = Product.find(2)
+product.update(name: "Ordinateur")
+Product.all
+product.destroy
+Product.all
+Product.create(name: "Ordinateur portable")
+product = Product.find(3)
+product.update(id: 2)
+Product.all
+reload!
+product = Product
+product = Product.new
+product.save
+product.errors
+product.errors.full_error_message
+product.errors.full_messages
+product = product.new
+product = Product.new
+product.save
+product.errors
+product.errors.full_message
+product.errors.full_messages
+exit
+product.errors
+product = Product.new
+product.save
+product.valid?
+product.errors
+product.errors.include? :name
+product.errors.include? :id

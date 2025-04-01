@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/PyCharm2024.3/demo/PyCharmLearningProject" value="true" />
+        <entry key="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation" value="true" />
+        <entry key="$USER_HOME$/Bureau/TP MAC/TP1" value="true" />
+        <entry key="$USER_HOME$/environnement/store" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+AngularJS
+Karma
+PerforceDirectPlugin
+Subversion
+com.intellij.copyright
+com.intellij.plugins.webcomponents
+gherkin
+hg4idea
+intellij.nextjs
+intellij.webpack
+org.coffeescript
+org.jetbrains.plugins.less
+org.jetbrains.plugins.vagrant
+org.jetbrains.plugins.vue

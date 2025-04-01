@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.cache/JetBrains/PyCharm2024.3/demo/PyCharmLearningProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="PyCharmLearningProject – welcome.py" hidden="true" projectWorkspaceId="2uA4JRyHxiKJe27CYPuIgHhSJoB">
+              <option name="activationTimestamp" value="1741678428790" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-243.25659.43" />
+              <option name="buildTimestamp" value="1740643680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="48" width="2560" height="1392" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1741677973139" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Bureau/G1-G2/Projet-Optim-EPU/Implementation">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Implementation – first_attempt.py" projectWorkspaceId="2uA5KzJVny0WHRVFoxY656fnkZZ">
+              <option name="activationTimestamp" value="1742992167979" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-243.25659.43" />
+              <option name="buildTimestamp" value="1740643680000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="48" width="2560" height="1392" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1741678479060" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Bureau/TP MAC/TP1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="TP1" opened="true" projectWorkspaceId="2ur22unpW1zUwHZdnuY5DZ3tb2K">
+              <option name="activationTimestamp" value="1742999397071" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PY-243.26053.29" />
+              <option name="buildTimestamp" value="1742247480000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="48" width="1600" height="870" extendedState="6" />
+              <option name="productionCode" value="PY" />
+              <option name="projectOpenTimestamp" value="1742992168731" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Bureau/TP MAC/TP1" />
+  </component>
+</application>
