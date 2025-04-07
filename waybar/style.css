@@ -51,6 +51,7 @@ window#waybar {
 #custom-audiorec,
 #battery, 
 #clock, 
+#power-profiles-daemon,
 #network {
 	padding: 0 10px;
 }
